@@ -1,0 +1,21 @@
+.creat-todo-cont{
+    color: #fff;
+    width: 300px;
+    background-color: rgba(0, 0, 255, 0.2);
+    border: 1px solid #fff;
+    padding: 20px;
+    margin:10px;
+    justify-content: space-betweeen;
+    text-align: center;
+}
+
+
+input.error {
+    border: 1px solid #EADAE4;
+  }
+  
+  .error {
+    color:#db2269;
+    font-size: 0.625em;
+    display: relative;
+  }
