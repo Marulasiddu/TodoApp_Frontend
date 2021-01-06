@@ -29,9 +29,9 @@ class Todo extends Component {
         this.props.fetch_todos()
     }
 
-    // componentWillReceiveProps(props){
-    //     this.props.fetch_todos()
-    // }
+    componentWillReceiveProps(props){
+        this.props.fetch_todos()
+    }
 
     render() {
         const {allData} = this.props;
